@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Hakancelebii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mobil application projects.
+- 🌱 I’m currently learning dart with flutter
+- 💞️ I’m looking to collaborate on software
+- 📫 you can reach me email and instagram. 
+- Email : hakancelebi2520@gmail.com
+- İnstgram : haknncelebi
 
 <!---
 Hakancelebii/Hakancelebii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
